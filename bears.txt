@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 brown bear
 black bear
 grizley
 polar?
+=======
+brown bear
+>>>>>>> cd8af2b19795f0fd0a79e0ba167369d2175feb19
