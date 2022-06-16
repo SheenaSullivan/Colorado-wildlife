@@ -1,3 +1,3 @@
 # Colorado-wildlife
 
-## This is to identify the wildlife in Colorado (USA) be region and include the population
+## This is to identify the wildlife in Colorado (USA) by region and include the population
